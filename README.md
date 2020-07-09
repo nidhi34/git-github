@@ -1,2 +1,3 @@
 # git-github
-For tutorial
+For tutorial purpose
+From edureka on YouTube
